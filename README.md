@@ -37,30 +37,14 @@ are still be attached, don't worry.
 i've to scale down the time to implement it.
   
 </pre>
-
-<br>
-<br>
-<br>
-<br>
-<br>
+ 
+ 
+# Samples
+Completed at 2017.9.11 
+ 
 ![](https://github.com/kampxtr/SimpleARPG/blob/master/screenshot/clipboard3.png)
-<br>
-<br>
-<br>
-<br>
-<br>
 ![](https://github.com/kampxtr/SimpleARPG/blob/master/screenshot/clipboard4.png)
-<br>
-<br>
-<br>
-<br>
-<br>
 ![](https://github.com/kampxtr/SimpleARPG/blob/master/screenshot/clipboard5.png)
-<br>
-<br>
-<br>
-<br>
-<br>
 ![](https://github.com/kampxtr/SimpleARPG/blob/master/screenshot/clipboard6.png)
 <br>
 <br>
