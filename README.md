@@ -69,13 +69,7 @@ Completed at 2017.9.11
 <br>
 <br>
 <br>
-![](https://github.com/kampxtr/SimpleARPG/blob/master/screenshot/clipboard6.png)
-<br>
-<br>
-<br>
-<br>
-<br>
-
+ 
  
 ![](https://github.com/kampxtr/SimpleARPG/blob/master/screenshot/20170922200016207.jpg)
 <br>
