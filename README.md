@@ -41,10 +41,33 @@ i've to scale down the time to implement it.
  
 # Samples
 Completed at 2017.9.11 
- 
+
+![](https://github.com/kampxtr/LiberatorEngine/blob/master/screenshots/clipboard1.png)
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ![](https://github.com/kampxtr/SimpleARPG/blob/master/screenshot/clipboard3.png)
+<br>
+<br>
+<br>
+<br>
+<br>
 ![](https://github.com/kampxtr/SimpleARPG/blob/master/screenshot/clipboard4.png)
+<br>
+<br>
+<br>
+<br>
+<br>
 ![](https://github.com/kampxtr/SimpleARPG/blob/master/screenshot/clipboard5.png)
+<br>
+<br>
+<br>
+<br>
+<br>
 ![](https://github.com/kampxtr/SimpleARPG/blob/master/screenshot/clipboard6.png)
 <br>
 <br>
