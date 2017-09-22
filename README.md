@@ -35,6 +35,7 @@ weapons, helmets you loot in the inventory window.
 are still be attached, don't worry.
   Hopefully, the game was done. I'm going to create a sub editor to handle attack actions. Since I'm busy now, 
 i've to scale down the time to implement it.
+  Lastly, you can enjoy the code, but i show the code just for ZHUANG B, so it can't compile, lol !!!
   
 </pre>
  
