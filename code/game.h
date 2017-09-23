@@ -368,7 +368,7 @@ public:
 				grounditem->_itemID = item._id;
 		}
 		return euipment;
-}
+	}
 
 	void spawnMobs()
 	{
@@ -423,8 +423,7 @@ public:
 			if (gocmp) 
 			{
 				switch (gocmp->_type)
-				{
-					break;
+				{ 
 				case GameObjectTypes::MOB: mobs.push_back(go);
 					break;
 				}
