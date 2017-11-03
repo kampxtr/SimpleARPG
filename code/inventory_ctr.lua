@@ -23,6 +23,7 @@ end
 function attachItem(itemPos) 
 	local itemData = this.entity.inventory_model.getItemByPosition(itemPos)
 	if(itemData and itemData ~= INVALID_ITEM) then
+		detachEquipment(itemData.type)
 		this.entity.inventory_model.removeItem(itemPos)
 		this.entity.inventory_model.attachEquipment(itemData)
 		local res = loadXml(itemData.prefab)
