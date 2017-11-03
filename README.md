@@ -6,7 +6,9 @@
 
 # engine
 - https://github.com/kampxtr/LiberatorEngine
-
+## new features
+- new animation system
+- lua script supported, all game code can be dumped to lua component
 
 # gameplay
 - battle system
@@ -51,12 +53,21 @@ Completed at 2017.9.11
 <br>
 <br>
 
+![](https://github.com/kampxtr/LiberatorEngine/blob/master/screenshots/20171101183136266.png)
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ![](https://github.com/kampxtr/SimpleARPG/blob/master/screenshot/clipboard3.png)
 <br>
 <br>
 <br>
 <br>
 <br>
+
 ![](https://github.com/kampxtr/SimpleARPG/blob/master/screenshot/clipboard4.png)
 <br>
 <br>
