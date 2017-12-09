@@ -1,5 +1,5 @@
 # SimpleARPG
-1000 lines code make huge ARPG
+1000 lines code make big 3D ARPG
 
 <br>
 
