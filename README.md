@@ -61,12 +61,7 @@ Completed at 2017.9.11
 <br>
 <br>
 
-![](https://github.com/kampxtr/SimpleARPG/blob/master/screenshot/clipboard3.png)
-<br>
-<br>
-<br>
-<br>
-<br>
+ 
 
 ![](https://github.com/kampxtr/SimpleARPG/blob/master/screenshot/clipboard4.png)
 <br>
@@ -74,7 +69,8 @@ Completed at 2017.9.11
 <br>
 <br>
 <br>
-![](https://github.com/kampxtr/SimpleARPG/blob/master/screenshot/clipboard5.png)
+
+ ![](https://github.com/kampxtr/SimpleARPG/blob/master/screenshot/asdfwefwegeg.png)
 <br>
 <br>
 <br>
