@@ -8,7 +8,9 @@
 - https://github.com/kampxtr/LiberatorEngine
 ## new features
 - new animation system
+- animatin blueprint
 - lua script supported, all game code can be dumped to lua component
+
 
 # gameplay
 - battle system
@@ -35,8 +37,8 @@ weapons, helmets you loot in the inventory window.
   As you notice, penguins are playing different animations, that's owe to my engine's new feathers !!! 
   When you switch to different level, your items will remain in your inventory repository and the equipments 
 are still be attached, don't worry.
-  Hopefully, the game was done. I'm going to create a sub editor to handle attack actions. Since I'm busy now, 
-i've to scale down the time to implement it.
+  Most significantly, i create animation blueprint to do animation control in editor, and don't need to write 
+any lines of codes, very easy to drive !!!
   Lastly, you can enjoy the code, but i show the code just for ZHUANG B, so it can't compile, lol !!!
   
 </pre>
@@ -44,6 +46,14 @@ i've to scale down the time to implement it.
  
 # Samples
 Completed at 2017.9.11 
+
+![](https://github.com/kampxtr/SimpleARPG/blob/master/screenshot/2017-12-19-5.png)
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ![](https://github.com/kampxtr/LiberatorEngine/blob/master/screenshots/clipboard1.png)
 <br>
