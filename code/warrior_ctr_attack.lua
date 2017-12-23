@@ -17,9 +17,9 @@ end
 function onInput(evt) 
    if(evt.type == FW.InputEvent.EventType.KeyPressed) then
        if(FW.Keyboard.Key.X == evt.key.code) then
-	      if(animator) then
-		animator:setFloatProperty(animAttack, 1)
-	      end
+		  if(animator) then
+			animator:setFloatProperty(animAttack, 1.2)
+		  end
 
 	      local spawnercmp = spawner.spawner
 		  if(spawnercmp) then
@@ -29,7 +29,7 @@ function onInput(evt)
 				if(mobhealth)  then mobhealth.beAttack(50) end
 			end
 		  end
-	end
+	   end
    end
 end
 
