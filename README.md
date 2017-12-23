@@ -80,7 +80,7 @@ Completed at 2017.9.11
 <br>
 <br>
 
- ![](https://github.com/kampxtr/SimpleARPG/blob/master/screenshot/asdfwefwegeg.png)
+ ![](https://github.com/kampxtr/SimpleARPG/blob/master/screenshot/2017-12-20-20.png)
 <br>
 <br>
 <br>
