@@ -47,6 +47,14 @@ any lines of codes, very easy to drive !!!
 # Samples
 Completed at 2017.9.11 
 
+![image](https://github.com/kampxtr/SimpleARPG/blob/master/screenshot/gameplay.gif)
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ![](https://github.com/kampxtr/SimpleARPG/blob/master/screenshot/2017-12-19-5.png)
 <br>
 <br>
