@@ -55,7 +55,7 @@ Completed at 2017.9.11
 <br>
 <br>
 
-![](https://github.com/kampxtr/SimpleARPG/blob/master/screenshot/2017-12-19-5.png)
+![image](https://github.com/kampxtr/SimpleARPG/blob/master/screenshot/animation_blueprint.gif)
 <br>
 <br>
 <br>
