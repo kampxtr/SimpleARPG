@@ -88,7 +88,7 @@ Completed at 2017.9.11
 <br>
 <br>
 
- ![](https://github.com/kampxtr/SimpleARPG/blob/master/screenshot/2017-12-18-21.png)
+ ![](https://github.com/kampxtr/SimpleARPG/blob/master/screenshot/2017-12-20-124.png)
 <br>
 <br>
 <br>
