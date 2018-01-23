@@ -62,33 +62,10 @@ Completed at 2017.9.11
 <br>
 <br>
 <br>
-
-![](https://github.com/kampxtr/LiberatorEngine/blob/master/screenshots/clipboard1.png)
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-![](https://github.com/kampxtr/LiberatorEngine/blob/master/screenshots/20171101183136266.png)
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
+ 
  
 
-![](https://github.com/kampxtr/SimpleARPG/blob/master/screenshot/clipboard4.png)
-<br>
-<br>
-<br>
-<br>
-<br>
-
- ![](https://github.com/kampxtr/SimpleARPG/blob/master/screenshot/2017-12-20-124.png)
+![](https://github.com/kampxtr/SimpleARPG/blob/master/screenshot/2017-12-20-124.png)
 <br>
 <br>
 <br>
@@ -96,37 +73,17 @@ Completed at 2017.9.11
 <br>
  
  
-![](https://github.com/kampxtr/SimpleARPG/blob/master/screenshot/20170922200016207.jpg)
+![image](https://github.com/kampxtr/SimpleARPG/blob/master/screenshot/milestone-1.gif) 
 <br>
 <br>
 <br>
 <br>
 <br>
-![](https://github.com/kampxtr/SimpleARPG/blob/master/screenshot/DGxybCrUQAAMfxl.jpg)
 <br>
-<br>
-<br>
-<br>
-<br>
-![](https://github.com/kampxtr/SimpleARPG/blob/master/screenshot/320170922185345312.jpg)
-<br>
-<br>
-<br>
-<br>
-<br>
-![](https://github.com/kampxtr/SimpleARPG/blob/master/screenshot/20170922194028604.jpg)
-<br>
-<br>
-<br>
-<br>
-<br>
-![](https://github.com/kampxtr/SimpleARPG/blob/master/screenshot/clipboard.png)
-<br>
-<br>
-<br>
-<br>
-<br>
-![](https://github.com/kampxtr/SimpleARPG/blob/master/screenshot/clipboard1.png)
+ 
+ 
+ 
+ 
 
 
  
