@@ -49,13 +49,19 @@ Completed at 2017.9.11
  
  
 
-![](https://github.com/kampxtr/SimpleARPG/blob/master/screenshot/2017-12-20-124.png)
+![](https://github.com/kampxtr/SimpleARPG/blob/master/screenshot/meofneognoeng2017-12-2.png)
 <br>
 <br>
 <br>
 <br>
 <br>
  
+![](https://github.com/kampxtr/SimpleARPG/blob/master/screenshot/efoeno2017-12-2.png)
+<br>
+<br>
+<br>
+<br>
+<br>
  
 ![image](https://github.com/kampxtr/SimpleARPG/blob/master/screenshot/milestone-1.gif) 
 <br>
