@@ -10,7 +10,8 @@
 - new animation system
 - animatin blueprint
 - lua script supported, all game code can be dumped to lua component
-
+- lua hot loading
+- shader hot loading
 
 # gameplay
 - battle system
