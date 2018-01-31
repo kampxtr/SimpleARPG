@@ -32,6 +32,17 @@
 # Samples
 Completed at 2017.9.11 
 
+<br>
+<br>
+<br>
+
+lua driven to make 10000 grass + bloom 
+
+<br>
+
+![](https://github.com/kampxtr/SimpleARPG/blob/master/screenshot/2018-1-22.png)
+
+
 ![image](https://github.com/kampxtr/SimpleARPG/blob/master/screenshot/gameplay.gif)
 <br>
 <br>
