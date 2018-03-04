@@ -61,19 +61,13 @@ lua driven to make 10000 grass + bloom
  
  
 
-![](https://github.com/kampxtr/SimpleARPG/blob/master/screenshot/meofneognoeng2017-12-2.png)
+![](https://github.com/kampxtr/SimpleARPG/blob/master/screenshot/2018-2-28.png)
 <br>
 <br>
 <br>
 <br>
 <br>
  
-![](https://github.com/kampxtr/SimpleARPG/blob/master/screenshot/efoeno2017-12-2.png)
-<br>
-<br>
-<br>
-<br>
-<br>
  
 ![image](https://github.com/kampxtr/SimpleARPG/blob/master/screenshot/milestone-1.gif) 
 <br>
